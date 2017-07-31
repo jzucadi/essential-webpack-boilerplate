@@ -43,6 +43,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.4",
-    "lost": "^8.2.0"
+    "lost": "^8.2.0",
+    "rucksack-css": "^0.9.1"
   }
 }
